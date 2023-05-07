@@ -1,4 +1,4 @@
-#Spark Stream Pipeline Documentation
+# Spark Stream Pipeline Documentation
 
 ## Project Overview 
 
